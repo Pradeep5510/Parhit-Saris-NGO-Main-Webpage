@@ -197,6 +197,7 @@ body{
     margin-top: 1rem;
     margin-left: 3rem;
     margin-right: 1rem;
+    max-width:98%;
     height: fit-content;
     display: flex;
     flex-direction: row;
